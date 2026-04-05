@@ -1,0 +1,3 @@
+class Gracz:
+    pionek = None
+    
