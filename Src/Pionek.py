@@ -1,0 +1,4 @@
+class Pionek:
+    ksztalt = ""
+    kolor = ""
+    
