@@ -1,4 +1,4 @@
 class Pionek:
-    ksztalt = ""
+    figura = None
     kolor = ""
     
