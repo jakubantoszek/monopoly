@@ -1,8 +1,11 @@
+from Grupa import Grupa
+from Gracz import Gracz
+
 class Pole:
-    cena = 0
-    nazwa = ""
-    numer = 0
-    domki = 0
-    grupa = None
-    posiadacz = None
-    oplaty = []
+    cena: int
+    nazwa: str
+    numer: int
+    domki: int
+    grupa: Grupa
+    posiadacz: Gracz
+    oplaty: list
