@@ -1,4 +1,6 @@
+from Figura import Figura
+
 class Pionek:
-    figura = None
-    kolor = ""
+    figura: Figura
+    kolor: Any
     
