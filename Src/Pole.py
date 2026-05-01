@@ -9,3 +9,7 @@ class Pole:
     grupa: Grupa
     posiadacz: Gracz
     oplaty: list
+
+    def __init__(self):
+        pass
+    
