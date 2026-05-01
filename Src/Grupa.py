@@ -1,4 +1,4 @@
 class Grupa:
-    kolor = ""
-    cena_domu = 0
-    pola = []
+    kolor: Any
+    cena_domu: int
+    pola: list
