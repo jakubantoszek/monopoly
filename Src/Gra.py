@@ -1,4 +1,4 @@
 class Gra:
-    status = False
-    pola = []
-    gracze = []
+    status: bool
+    pola: list
+    gracze: list
