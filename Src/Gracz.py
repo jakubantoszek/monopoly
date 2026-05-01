@@ -1,8 +1,10 @@
+from Pionek import Pionek
+
 class Gracz:
-    pionek = None
-    nazwa = ""
-    stan_konta = 0
-    aktualne_pole = 0
-    id = 0
-    czy_wolny = True
-    pola = []
+    pionek: Pionek
+    nazwa: str
+    stan_konta: int
+    aktualne_pole: int
+    id: int
+    wolny: bool
+    pola: list
