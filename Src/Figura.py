@@ -1,3 +1,5 @@
+from pathlib import Path
+
 class Figura:
-    nazwa = ""
-    obraz = None
+    nazwa: str
+    obraz: Path
