@@ -1,31 +1,31 @@
 Numer;Nazwa;Cena;Grupa
-2;Boisko Łebieniec;100;
-4;Kościół Łebieniec;100;
-5;Parking;400;
-6;Przystanek Szczenurze I;400;
-7;Kościół Parafialny;150;
-9;Jezioro Sarbsko;150;
-10;Sea Park;200
-12;Farma Wujka Janka;250; 
-13;Transformator;300;
-14;Dom Cioci Lucyny;250;
-15;Bocianie Gniazdo;300;
-16;Przystanek Szczenurze II;400;
-17;Dom Leśniczego;350;
-19;Kolonia;350;
-20;Jezioro Czarne;400;
-22;Dom Borowców;420;
-24;Dom Karinki i Błażej;420;
-25;Dom Kuby;450;
-26;Przystanek Szczenurze III;400;
-27;Fryzjer;500;
-28;Park;500;
-29;Staw;300;
-30;Sklep;550;
-32;Świetlica;600;
-33;Przedszkole;600;
-35;Szkoła;650;
-36;Przystanek Szczenurze Szkoła;400;
-38;Plac Zabaw;700;
-39;Podatek Od Alkoholu;200;
-40;Boisko;800;
+2;Boisko Łebieniec;100;Łebieniec
+4;Kościół Łebieniec;100;Łebieniec
+5;Parking;400;Parking
+6;Przystanek Szczenurze I;400;Przystanki
+7;Kościół Parafialny;150;Sarbsk
+9;Jezioro Sarbsko;150;Sarbsk
+10;Sea Park;200;Sarbsk
+12;Farma Wujka Janka;250;Bacówka 
+13;Transformator;300;Elektrownia
+14;Dom Graffów;250;Bacówka
+15;Bocianie Gniazdo;300;Bacówka
+16;Przystanek Szczenurze II;400;Przystanki
+17;Dom Leśniczego;350;Las
+19;Kolonia;350;Las
+20;Jezioro Czarne;400;Las
+22;Dom Borowców;420;Pomorska I
+24;Dom Karinki i Błażeja;420;Pomorska I
+25;Dom Kuby;450;Pomorska I
+26;Przystanek Szczenurze III;400;Przystanki
+27;Fryzjer;500;Pomorska II
+28;Park;500;Pomorska II
+29;Staw;300;Wodociągi
+30;Sklep;550;Pomorska II
+32;Świetlica;600;Szkolna
+33;Przedszkole;600;Szkolna
+35;Szkoła;650;Szkolna
+36;Przystanek Szczenurze Szkoła;400;Przystanki
+38;Plac Zabaw;700;Turystyczna
+39;Podatek Od Alkoholu;200;Podatek
+40;Boisko;800;Turystyczna
